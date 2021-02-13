@@ -1,0 +1,20 @@
+/* ensure all pages have Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+body{
+  background-color: pink;
+}
+.md-container {
+  max-width: 800px;
+  padding-top: 0;
+   margin-top:5rem
+}
+
+.sml-card {
+  width: 22rem;
+  margin: 1rem 0;
+}
+
+
+
